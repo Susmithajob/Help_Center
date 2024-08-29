@@ -80,7 +80,6 @@ cd backend
 
 nodemon server
 
-
 ## Start the frontend React app
 
 cd ../frontend
@@ -88,3 +87,18 @@ cd ../frontend
 npm start
 
 The application should now be running at http://localhost:3000.
+
+## Screenshots
+
+#### Home Page
+
+![homepage](https://github.com/user-attachments/assets/7725c04f-b436-4aa2-ad89-a5055942a7d3)
+
+#### Adding Card
+
+![Addcard](https://github.com/user-attachments/assets/23588898-2b53-4530-a669-c03fe9cd2fab)
+
+#### Searching Card
+
+![Search](https://github.com/user-attachments/assets/04898e0c-e59e-4acb-bb77-7a8d4f8916d4)
+
