@@ -1,5 +1,5 @@
 # Help Center Card Management
-This project is a Help Center Card Management application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to create, search, and display help center cards with details such as title, description, and link.
+This project is a Help Center Card Management application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to create, search, and display help center cards with details such as title, description
 
 
 # Features
@@ -32,14 +32,16 @@ MongoDB installed or a MongoDB Atlas account
 
 # Clone the repository:
 git clone https://github.com/Susmithajob/Help_Center.git
-cd help-center-card-management
-Install dependencies:
 
-# Install backend dependencies
+cd help-center-card-management
+
+# Install dependencies:
+
+Install backend dependencies
 cd backend
 npm install
 
-# Install frontend dependencies
+Install frontend dependencies
 cd ../frontend
 npm install
 Set up environment variables:
