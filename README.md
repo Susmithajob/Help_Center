@@ -49,8 +49,6 @@ Set up environment variables:
 CONNECTION_STRING=your-mongodb-connection-string
 PORT=5000
 
-# Run the application:
-
 
 # Start the backend server
 cd backend
