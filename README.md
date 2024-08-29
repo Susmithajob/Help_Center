@@ -61,7 +61,7 @@ npm install
 
 ### Install frontend dependencies
 
-cd ../frontend
+cd ../frontend/help_center
 
 npm install
 
