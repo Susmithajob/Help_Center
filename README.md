@@ -1,27 +1,62 @@
-# Help Center API Assignment
+# Help Center Card Management
+This project is a Help Center Card Management application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to create, search, and display help center cards with details such as title, description, and link.
 
-## Instructions
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment
-   cd fullstack-assignment
-   ```
+# Features
+Create a Card: Users can add new help center cards.
+View All Cards: Users can view a list of all available cards.
+Search for a Specific Card: Users can search for a specific card by title.
 
-2. **Frontend:**
-   - Create a React app in the `frontend` folder.
-   - Follow the instructions in `frontend.md` to complete the frontend.
+# Technologies Used
 
-3. **Backend:**
-   - Create a Node.js app in the `backend` folder.
-   - Follow the `backend.md` instructions to complete the backend.
+Frontend:
 
-4. **Push Your Work:**
-   - Push both the frontend and backend apps to the same repository.
-   - Make sure the repository is public.
+React.js
+Tailwind CSS
+Axios for HTTP requests
 
-5. **Submit Your Work:**
-   - Paste the GitHub repository link in the Google form you received after pushing your code.
+Backend:
 
----
+Node.js
+Express.js
+MongoDB (with Mongoose ODM)
+CORS middleware
 
+# Installation
+Prerequisites
+Node.js installed on your local machine
+MongoDB installed or a MongoDB Atlas account
+
+
+# Steps
+
+# Clone the repository:
+git clone https://github.com/your-username/help-center-card-management.git
+cd help-center-card-management
+Install dependencies:
+
+# Install backend dependencies
+cd backend
+npm install
+
+# Install frontend dependencies
+cd ../frontend
+npm install
+Set up environment variables:
+
+# Create a .env file in the backend directory and add your MongoDB connection string and port:
+
+CONNECTION_STRING=your-mongodb-connection-string
+PORT=5000
+
+# Run the application:
+
+
+# Start the backend server
+cd backend
+nodemon server
+
+# Start the frontend React app
+cd ../frontend
+npm start
+The application should now be running at http://localhost:3000.
