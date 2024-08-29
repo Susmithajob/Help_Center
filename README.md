@@ -31,7 +31,7 @@ MongoDB installed or a MongoDB Atlas account
 # Steps
 
 # Clone the repository:
-git clone https://github.com/your-username/help-center-card-management.git
+git clone https://github.com/Susmithajob/Help_Center.git
 cd help-center-card-management
 Install dependencies:
 
