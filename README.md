@@ -32,8 +32,9 @@ MongoDB installed or a MongoDB Atlas account
 
 # Clone the repository:
 git clone https://github.com/Susmithajob/Help_Center.git
+cd fullstack-assignment
 
-cd help-center-card-management
+
 
 # Install dependencies:
 
